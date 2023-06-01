@@ -1,0 +1,11 @@
+C:\Users\cliente\source\repos\Mercado_balão\Mercado_balão\bin\Debug\Mercado_balão.exe.config
+C:\Users\cliente\source\repos\Mercado_balão\Mercado_balão\bin\Debug\Mercado_balão.exe
+C:\Users\cliente\source\repos\Mercado_balão\Mercado_balão\bin\Debug\Mercado_balão.pdb
+C:\Users\cliente\source\repos\Mercado_balão\Mercado_balão\obj\Debug\Mercado_balão.csproj.AssemblyReference.cache
+C:\Users\cliente\source\repos\Mercado_balão\Mercado_balão\obj\Debug\Mercado_balão.csproj.SuggestedBindingRedirects.cache
+C:\Users\cliente\source\repos\Mercado_balão\Mercado_balão\obj\Debug\Mercado_balão.Form1.resources
+C:\Users\cliente\source\repos\Mercado_balão\Mercado_balão\obj\Debug\Mercado_balão.Properties.Resources.resources
+C:\Users\cliente\source\repos\Mercado_balão\Mercado_balão\obj\Debug\Mercado_balão.csproj.GenerateResource.cache
+C:\Users\cliente\source\repos\Mercado_balão\Mercado_balão\obj\Debug\Mercado_balão.csproj.CoreCompileInputs.cache
+C:\Users\cliente\source\repos\Mercado_balão\Mercado_balão\obj\Debug\Mercado_balão.exe
+C:\Users\cliente\source\repos\Mercado_balão\Mercado_balão\obj\Debug\Mercado_balão.pdb
